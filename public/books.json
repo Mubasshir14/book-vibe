@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/DRwqks4/images.jpg",
+    "review": "A timeless classic that delves into the extravagant lifestyles and moral decay of the Jazz Age.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance", "Drama"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/C1QY0hC/images-1.jpg",
+    "review": "A poignant portrayal of racial injustice and moral growth in the American South.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Social Justice", "Coming of Age"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/k9cqd95/640px-The-Catcher-in-the-Rye-1951-first-edition-cover.jpg",
+    "review": "A rebellious journey through the disillusionment of adolescence.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Coming of Age", "Identity"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 4,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/f2DrGcm/s-l1600.jpg",
+    "review": "A chilling dystopian vision of a totalitarian future, where individuality is suppressed and truth is manipulated.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/y0r046X/717-TGe-Ik-VML-AC-UF1000-1000-QL80.jpg",
+    "review": "An enchanting adventure of Bilbo Baggins and his quest to reclaim the Dwarf kingdom of Erebor.",
+    "totalPages": 310,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Magic"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 6,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/KXqZz9X/91-E9-Fyfv-GL-AC-UF1000-1000-QL80.jpg",
+    "review": "A witty and romantic novel exploring the social conventions of 19th-century England.",
+    "totalPages": 432,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Romance", "Satire"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  }
+]
